@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\Rhydone\\Documents\\Stack\\Bounties\\Gas_Optimization\\gas_challenge\\contracts\\gasChallenge.sol": {
-      "lastModificationDate": 1689295330819,
-      "contentHash": "a1bb676ae5009b46e4dde6d8191593ca",
+      "lastModificationDate": 1689299612467,
+      "contentHash": "da8a18bddf6089a8044d511018d860d4",
       "sourceName": "contracts/gasChallenge.sol",
       "solcConfig": {
         "version": "0.8.18",
